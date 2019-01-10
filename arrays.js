@@ -24,7 +24,7 @@ function accessElementArray(arr,index)
 }
 function addElementToEndOfArray(array, element)
 {
-  array.push(element);
+  array[array...,element];
   return array;
 }
 
