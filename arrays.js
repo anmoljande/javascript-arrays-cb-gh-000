@@ -25,7 +25,7 @@ function accessElementArray(arr,index)
 function addElementToEndOfArray(array, element)
 {
   
-  return array[array...,element];
+  return array[array... ,element];
 }
 
 function removeElementFromBeginningOfArra(arra)
