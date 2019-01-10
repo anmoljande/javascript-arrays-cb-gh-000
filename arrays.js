@@ -28,7 +28,7 @@ function addElementToEndOfArray(array, element)
   return [...array,element];
 }
 
-function removeElementFromBeginningOfArra(arra)
+function removeElementFromBeginningOfArray(arra)
 {
   return arra.slice(0,1);
 }
