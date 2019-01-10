@@ -47,4 +47,9 @@ function removeElementFromEndOfArray (array)
 }
 
 
-function 
+function destructivelyAddElementToEndOfArray(array, element)
+{
+  
+  array.push(element);
+  return array;
+}
